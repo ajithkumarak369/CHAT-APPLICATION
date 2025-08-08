@@ -28,3 +28,6 @@ This chat application is applicable in various real-world scenarios where real-t
 
 *Output*:
 
+<img width="1920" height="947" alt="Image" src="https://github.com/user-attachments/assets/302cd647-3a3d-43b7-b1bf-e7423f9eda24" />
+
+
