@@ -30,4 +30,6 @@ This chat application is applicable in various real-world scenarios where real-t
 
 <img width="1920" height="947" alt="Image" src="https://github.com/user-attachments/assets/302cd647-3a3d-43b7-b1bf-e7423f9eda24" />
 
+<img width="1920" height="992" alt="Image" src="https://github.com/user-attachments/assets/807fa488-4791-4b3b-a2bc-f59f2e09466e" />
+
 
